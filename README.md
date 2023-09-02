@@ -1,2 +1,5 @@
-# java-project
-I create a program to manage student information by allowing administrators to add new students, check whether there is any similar student id, print all students, and search all information about any student based on the student id
+# Features
+Manage student information:
+- Add new students, ensuring that there are no duplicate student IDs. 
+- Print a complete list of all enrolled students.
+- Retrieve detailed information about any student based on their unique student ID.
